@@ -43,6 +43,7 @@ lcd.begin (16,2); //
 # En Proteus 
 Click en el arduino UNO, se tiene que poner la dirección del trabajo en arduino terminado en .hex, información que será dada al verificar el código. 
 
-
+# Si no sale la dirección en arduino
+Archivos >> Preferencias (Ctrl + Coma) >> Check Compilación 
 
 

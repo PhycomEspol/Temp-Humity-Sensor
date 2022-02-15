@@ -12,12 +12,15 @@ El presente proyecto se trata de un sensor de fácil uso y bajo costo que mide l
 | LCD 16x2 | Aprox. $3 |
 | Total | Aprox. $22 (precios aproximados en dolares) |
 
-# Librerías utilizadas
+| Librerías utilizadas |
+| -------------------- |
 | #include <LiquidCrystal.h> (Para la pantalla LCD) |
 | #include <DHT.h> (Para el sensor DHT11) |
 
 
 # Caracteristicas del sensor dht11
+| Características |
+| ---------------- |
 | Requiere 3-5 V | 
 | Consume máx. 2.5mA | 
 | Mide temperaturas de 0-50°C / ± 2°C |

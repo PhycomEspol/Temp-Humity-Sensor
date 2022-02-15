@@ -6,15 +6,10 @@ El presente proyecto se trata de un sensor de fácil uso y bajo costo que mide l
 | Materiales | Precios |
 | ----------| ------- |
 | Arduino UNO + cable USB | Aprox. $12 |
-| ----------------------- | ---------- |
 | Cables de conexión X20 | Aprox. $1.50 |
-| ---------------------- | ------------ |
 | Sensor DHT11 | Aprox. $3.50 |
-| ------------ | ------------ |
 | Protoboard | Aprox. $2.95 |
-| ---------- | ------------ |
 | LCD 16x2 | Aprox. $3 |
-| -------- | --------- |
 | Total: Aprox. $22 (precios aproximados en dolares) |
 
 # Librerías utilizadas
